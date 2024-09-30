@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_sunre_temp_air_c_temp_air</collection>
+        <email_layout display_value="Unsubscribe and Preferences">1410041f3b0b2200c869c2c703efc41e</email_layout>
+        <message/>
+        <message_html><![CDATA[<p>${mail_script:SBR_Header}</p>
+<p><span xml:lang="EN-US" data-contrast="auto">A solution has been proposed for your case.&nbsp;&nbsp;&nbsp;</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">&nbsp;</span></p>
+<p><strong>Short Description: </strong>${short_description}<br /><span style="list-style-type: disc;" xml:lang="EN-US" data-contrast="auto"><strong>Date Opened:</strong> </span>${opened_at}<br /><strong>Case Number:</strong> ${number}</p>
+<div>If you <strong>accept</strong> the solution, please reply to this email with &ldquo;Accept&rdquo; in the first line, or click on this <a href="mailto:${mail_script:sn_customerservice_case_get_email_to}?subject=Accept&amp;body=Do%20not%20delete%20the%20following%20message:%0A${watermark}">link</a>.</div>
+<div>If you <strong>reject</strong> the solution, please reply to this email with &ldquo;Reject&rdquo; in the first line, or click on this <a href="mailto:${mail_script:sn_customerservice_case_get_email_to}?subject=Reject&amp;body=Do%20not%20delete%20the%20following%20message:%0A${watermark}">link</a>.</div>
+<div>&nbsp;</div>
+<div>Click here to view the case:&nbsp;<a href="${mail_script:customerserviceportallink}">${number}</a></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<div><hr /></div>
+<div>Comments:</div>
+<div>${comments}</div>
+<div>&nbsp;</div>
+<div>Resolution notes:</div>
+<div>${close_notes}</div>
+<div>&nbsp;</div>
+<hr />
+<p>&nbsp;</p>
+</div>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>TA.case.resolved.for.customer</name>
+        <sms_alternate/>
+        <subject>Case ${number} solution proposed</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>101856</sys_created_by>
+        <sys_created_on>2024-09-27 04:26:18</sys_created_on>
+        <sys_id>ca65368f4774d250b35de7d5316d4309</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>TA.case.resolved.for.customer</sys_name>
+        <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+        <sys_update_name>sysevent_email_template_ca65368f4774d250b35de7d5316d4309</sys_update_name>
+        <sys_updated_by>101856</sys_updated_by>
+        <sys_updated_on>2024-09-27 04:28:12</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_sunre_temp_air_c_temp_air</collection>
+        <email_layout/>
+        <message/>
+        <message_html><![CDATA[<div>
+<div>
+<div>
+<div>${mail_script:SBR_Header}</div>
+</div>
+</div>
+<div>&nbsp;</div>
+</div>
+<div>Your case has been created.</div>
+<div>&nbsp;</div>
+<div><strong>Short Description:</strong> ${short_description}</div>
+<div><strong>Date Opened:</strong> ${opened_at}</div>
+<div><strong>Case Number:</strong> ${number}</div>
+<div><strong>Opened by:</strong> ${opened_by}</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>To review or make updates to the case, <span style="list-style-type: disc;" xml:lang="EN-US" data-contrast="auto">click</span> the link below.</div>
+<div>&nbsp;</div>
+<div>
+<div>
+<div>${mail_script:take_me_on_request_temp_air}</div>
+</div>
+</div>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>case.opened.for.customer</name>
+        <sms_alternate/>
+        <subject>Case ${number} opened - ${short_description} </subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>101856</sys_created_by>
+        <sys_created_on>2024-07-31 09:45:22</sys_created_on>
+        <sys_id>4f73d924473f8650b35de7d5316d4399</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>case.opened.for.customer</sys_name>
+        <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+        <sys_update_name>sysevent_email_template_4f73d924473f8650b35de7d5316d4399</sys_update_name>
+        <sys_updated_by>101856</sys_updated_by>
+        <sys_updated_on>2024-09-27 11:59:05</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>
