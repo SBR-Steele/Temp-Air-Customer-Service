@@ -45,11 +45,11 @@
 <p>${comments}</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>TA Case- Additional Comments Added</name>
+        <name>TA Case-AdditionalComments Added (Caller</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields>assigned_to,u_reference_1</recipient_fields>
+        <recipient_fields>u_reference_1</recipient_fields>
         <recipient_groups/>
         <recipient_users/>
         <reply_to/>
@@ -64,15 +64,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fd3c6857478c9a50b35de7d5316d432d</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>TA Case- Additional Comments Added</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>TA Case-AdditionalComments Added (Caller</sys_name>
         <sys_overrides/>
         <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
         <sys_update_name>sysevent_email_action_fd3c6857478c9a50b35de7d5316d432d</sys_update_name>
         <sys_updated_by>101856</sys_updated_by>
-        <sys_updated_on>2024-09-30 06:17:46</sys_updated_on>
+        <sys_updated_on>2024-10-03 06:48:13</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
