@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="time_spent_minutes" table="x_sunre_temp_air_c_temp_air" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>time_spent_minutes</element>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:27:31</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>time_spent_minutes</sys_name>
+            <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+            <sys_update_name>sys_choice_x_sunre_temp_air_c_temp_air_time_spent_minutes</sys_update_name>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-07-16 05:27:31</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_spent_minutes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2024-08-16 06:08:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:18:13</sys_updated_on>
+            <u_translated_text>5</u_translated_text>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_spent_minutes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>15</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:27:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:20:20</sys_updated_on>
+            <u_translated_text>15</u_translated_text>
+            <value>15</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_spent_minutes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>30</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:27:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:18:15</sys_updated_on>
+            <u_translated_text>30</u_translated_text>
+            <value>30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_spent_minutes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>45</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:28:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:20:35</sys_updated_on>
+            <u_translated_text>45</u_translated_text>
+            <value>45</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_spent_minutes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>60</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:28:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:13:33</sys_updated_on>
+            <u_translated_text>60</u_translated_text>
+            <value>60</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_spent_minutes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>90</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:28:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:17:55</sys_updated_on>
+            <u_translated_text>90</u_translated_text>
+            <value>90</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time_spent_minutes</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>120</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:28:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:19:19</sys_updated_on>
+            <u_translated_text>120</u_translated_text>
+            <value>120</value>
+        </sys_choice>
+    </sys_choice>
+    <sys_translated_text action="delete_multiple" query="documentkey=964bb62147cc9a90016423c4116d43c1"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=c0b843af475fce50016423c4116d43f4"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=96c807af475fce50016423c4116d4367"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=c5d8436f475fce50016423c4116d435e"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=33e803af475fce50016423c4116d430a"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=8ff8cbaf475fce50016423c4116d43b7"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=ad098baf475fce50016423c4116d43b7"/>
+</record_update>

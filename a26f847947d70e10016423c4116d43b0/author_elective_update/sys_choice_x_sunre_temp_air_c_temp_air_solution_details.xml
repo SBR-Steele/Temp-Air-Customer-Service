@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="solution_details" table="x_sunre_temp_air_c_temp_air" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>solution_details</element>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:53:26</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>solution_details</sys_name>
+            <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+            <sys_update_name>sys_choice_x_sunre_temp_air_c_temp_air_solution_details</sys_update_name>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-07-16 05:53:26</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1300</dependent_value>
+            <element>solution_details</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Documentation</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:53:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:16:40</sys_updated_on>
+            <u_translated_text>Documentation</u_translated_text>
+            <value>100</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1300</dependent_value>
+            <element>solution_details</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application Support</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:53:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:14:51</sys_updated_on>
+            <u_translated_text>Application Support</u_translated_text>
+            <value>200</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1300</dependent_value>
+            <element>solution_details</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Equipment Performance/Specs</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:54:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:16:19</sys_updated_on>
+            <u_translated_text>Equipment Performance/Specs</u_translated_text>
+            <value>300</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1350</dependent_value>
+            <element>solution_details</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Documentation</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>400</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:55:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:22:50</sys_updated_on>
+            <u_translated_text>Documentation</u_translated_text>
+            <value>400</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1350</dependent_value>
+            <element>solution_details</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Troubleshooting</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>500</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:55:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:11:59</sys_updated_on>
+            <u_translated_text>Troubleshooting</u_translated_text>
+            <value>500</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1350</dependent_value>
+            <element>solution_details</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Part Ordering</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>600</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:55:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:20:47</sys_updated_on>
+            <u_translated_text>Part Ordering</u_translated_text>
+            <value>600</value>
+        </sys_choice>
+    </sys_choice>
+    <sys_translated_text action="delete_multiple" query="documentkey=749ecf6b479fce50016423c4116d43cb"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=4dce0f6b479fce50016423c4116d431e"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=6dee432f479fce50016423c4116d43e5"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=f71f8feb479fce50016423c4116d4347"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=132fcbeb479fce50016423c4116d431c"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb3f436f479fce50016423c4116d433d"/>
+</record_update>

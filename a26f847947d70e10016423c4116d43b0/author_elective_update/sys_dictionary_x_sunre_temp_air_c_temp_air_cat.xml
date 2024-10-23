@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="cat" table="x_sunre_temp_air_c_temp_air">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label>CAT</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>cat</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_sunre_temp_air_c_temp_air</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>true</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>101856</sys_created_by>
+        <sys_created_on>2024-09-05 06:15:02</sys_created_on>
+        <sys_id>3f8c718847281a90016423c4116d4335</sys_id>
+        <sys_name>CAT</sys_name>
+        <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+        <sys_update_name>sys_dictionary_x_sunre_temp_air_c_temp_air_cat</sys_update_name>
+        <sys_updated_by>101856</sys_updated_by>
+        <sys_updated_on>2024-09-05 06:25:47</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</application>
+        <file_path/>
+        <instance_id>c121069fdb3d0cd4387021c4059619e7</instance_id>
+        <instance_name>sunbeltrentalsdev</instance_name>
+        <name>sys_dictionary_x_sunre_temp_air_c_temp_air_cat</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="cat" table="x_sunre_temp_air_c_temp_air"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;CAT&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;cat&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_sunre_temp_air_c_temp_air&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;true&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;101856&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-09-05 06:15:02&lt;/sys_created_on&gt;&lt;sys_id&gt;3f8c718847281a90016423c4116d4335&lt;/sys_id&gt;&lt;sys_name&gt;CAT&lt;/sys_name&gt;&lt;sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c"&gt;a26f847947d70e10016423c4116d43b0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Temp Air:  Customer Service"&gt;a26f847947d70e10016423c4116d43b0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_sunre_temp_air_c_temp_air_cat&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;101856&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-09-05 06:25:47&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1711516621</payload_hash>
+        <record_name>Temp Air.CAT</record_name>
+        <reverted_from/>
+        <source>266f00f947d70e10016423c4116d43b4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>101856</sys_created_by>
+        <sys_created_on>2024-09-05 06:25:48</sys_created_on>
+        <sys_id>562f310047681a90016423c4116d43be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191c0dc4a040000001</sys_recorded_at>
+        <sys_updated_by>101856</sys_updated_by>
+        <sys_updated_on>2024-09-05 06:25:48</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>9a2f310045681a9034f9b00712c77fbd</update_guid>
+        <update_guid_history>9a2f310045681a9034f9b00712c77fbd:-1711516621,7becbd8817281a902be27d9675a80751:1166267443,60bc35883f281a907fd9caff832c9b2f:-674468329</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>101856</sys_created_by>
+        <sys_created_on>2024-09-09 07:16:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>651063512d894fec84df08d6bf3fa0f9</sys_id>
+        <sys_metadata>3f8c718847281a90016423c4116d4335</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAT</sys_name>
+        <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+        <sys_parent display_value="Temp Air Case">94c0187d47d70e10016423c4116d4358</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+        <sys_scope_delete display_value="">7bbdc2ae09b748acb2bbf328de520390</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_sunre_temp_air_c_temp_air_cat</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_sunre_temp_air_c_temp_air_cat">562f310047681a90016423c4116d43be</sys_update_version>
+        <sys_updated_by>101856</sys_updated_by>
+        <sys_updated_on>2024-09-09 07:16:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

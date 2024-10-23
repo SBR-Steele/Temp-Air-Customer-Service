@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_sunre_temp_air_c_temp_air" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-10 08:29:34</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+            <sys_update_name>sys_choice_x_sunre_temp_air_c_temp_air_category</sys_update_name>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-07-10 08:29:34</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

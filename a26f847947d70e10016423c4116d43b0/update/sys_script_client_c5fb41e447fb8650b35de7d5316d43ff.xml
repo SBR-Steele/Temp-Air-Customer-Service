@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>mandatroy field when click on Propose So</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+    var action1 = g_form.getActionName();
+    var timeSpent = g_form.getValue('time_spent_minutes');
+    if (action1 == 'proposeSolution') {
+        if (timeSpent == '') {
+           g_form.showFieldMsg("time_spent_minutes", 'Time Spent (Minutes) are required.', "error");
+        g_form.setMandatory("time_spent_minutes", true);
+        g_form.addErrorMessage("To propose a solution, you must select a Time Spent (Minutes).");
+		
+        return false;
+        }
+
+        
+        
+    }
+}
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>101856</sys_created_by>
+        <sys_created_on>2024-07-31 09:14:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c5fb41e447fb8650b35de7d5316d43ff</sys_id>
+        <sys_mod_count>29</sys_mod_count>
+        <sys_name>mandatroy field when click on Propose So</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+        <sys_update_name>sys_script_client_c5fb41e447fb8650b35de7d5316d43ff</sys_update_name>
+        <sys_updated_by>101856</sys_updated_by>
+        <sys_updated_on>2024-08-22 07:20:05</sys_updated_on>
+        <table>x_sunre_temp_air_c_temp_air</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

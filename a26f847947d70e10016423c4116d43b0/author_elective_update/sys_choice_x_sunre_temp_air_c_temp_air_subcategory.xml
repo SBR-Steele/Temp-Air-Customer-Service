@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="subcategory" table="x_sunre_temp_air_c_temp_air" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-10 08:31:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>subcategory</sys_name>
+            <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+            <sys_update_name>sys_choice_x_sunre_temp_air_c_temp_air_subcategory</sys_update_name>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-07-10 08:31:20</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1500</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sales &amp; Application</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>1300</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:51:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:20:57</sys_updated_on>
+            <u_translated_text>Sales &amp; Application</u_translated_text>
+            <value>1300</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1500</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Support</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence>1310</sequence>
+            <synonyms/>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-16 05:52:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-04 04:17:21</sys_updated_on>
+            <u_translated_text>Service Support</u_translated_text>
+            <value>1350</value>
+        </sys_choice>
+    </sys_choice>
+    <sys_translated_text action="delete_multiple" query="documentkey=cf2e07eb479fce50016423c4116d430f"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=828ec7eb479fce50016423c4116d436e"/>
+</record_update>

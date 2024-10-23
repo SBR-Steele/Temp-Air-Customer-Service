@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Resolution Details" section_id="a80e2075471f0e10016423c4116d43af" sys_domain="global" table="x_sunre_temp_air_c_temp_air" version="3" view="customer_view">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>3319a869479812d0b35de7d5316d4337</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <text> &lt;div style="text-align: left; padding-top: 20px;"&gt;&lt;b&gt;Support category (select all that apply):&lt;/b&gt;&lt;/div&gt;</text>
+            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>was_technician_lacking_skills_or_training</element>
+            <position>0</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>fb1924a9479812d0b35de7d5316d43ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>was_technician_lacking_tools_needed</element>
+            <position>1</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>f31924a9479812d0b35de7d5316d43ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>engineering_review_needed</element>
+            <position>2</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>fb1924a9479812d0b35de7d5316d43ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>support_provided_in_field</element>
+            <position>3</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>f31924a9479812d0b35de7d5316d43af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>fb1924a9479812d0b35de7d5316d43af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments_skills</element>
+            <position>5</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>f31924a9479812d0b35de7d5316d43b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments_tools</element>
+            <position>6</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>fb1924a9479812d0b35de7d5316d43b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments_engineering_review</element>
+            <position>7</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>f31924a9479812d0b35de7d5316d43b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>fb1924a9479812d0b35de7d5316d43b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <position>9</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>f31924a9479812d0b35de7d5316d43b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>part_number_s</element>
+            <position>10</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>fb1924a9479812d0b35de7d5316d43b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>3319a869479812d0b35de7d5316d4337</element>
+            <position>11</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>f31924a9479812d0b35de7d5316d43b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>12</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>fb1924a9479812d0b35de7d5316d43b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>troubleshooting</element>
+            <position>13</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>f31924a9479812d0b35de7d5316d43b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>documentation</element>
+            <position>14</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>fb1924a9479812d0b35de7d5316d43b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>part_inquiry</element>
+            <position>15</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>f31924a9479812d0b35de7d5316d43b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>16</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>fb1924a9479812d0b35de7d5316d43b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>application_support</element>
+            <position>17</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>f31924a9479812d0b35de7d5316d43b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>equipment_performance_specs</element>
+            <position>18</position>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-08-28 05:45:04</sys_created_on>
+            <sys_id>fb1924a9479812d0b35de7d5316d43b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="0b8b21c487c65110169499f73cbb3530">a80e2075471f0e10016423c4116d43af</sys_ui_section>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-08-28 05:45:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Resolution Details</caption>
+            <header>false</header>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>101856</sys_created_by>
+            <sys_created_on>2024-07-10 07:42:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a80e2075471f0e10016423c4116d43af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_sunre_temp_air_c_temp_air</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+            <sys_update_name>sys_ui_section_a80e2075471f0e10016423c4116d43af</sys_update_name>
+            <sys_updated_by>101856</sys_updated_by>
+            <sys_updated_on>2024-07-10 07:42:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="CSM Customer " name="customer_view">0b8b21c487c65110169499f73cbb3530</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

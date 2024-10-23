@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="DELETE">
+        <action_name>test</action_name>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments/>
+        <condition>current.state==10</condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style/>
+        <format_for_configurable_workspace>false</format_for_configurable_workspace>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <messages/>
+        <name>test</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[//if state is not closed or awaiting info
+if(!current.comments && !current.work_notes){
+    gs.addErrorMessage(gs.getMessage("Please specify details in comments or worknotes"));
+	action.setRedirectURL(current);
+	current.setAbortAction(true);
+}
+else {
+	current.state == '18';
+	current.update();
+	
+	var inputs = {};
+	inputs['case_task_record'] = current;
+		sn_fd.FlowAPI.executeSubflow('sn_customerservice.update_case_for_action_status', inputs);
+	
+	
+
+}]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>101856</sys_created_by>
+        <sys_created_on>2024-08-21 11:10:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>422039df4708dad0016423c4116d4378</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+        <sys_update_name>sys_ui_action_422039df4708dad0016423c4116d4378</sys_update_name>
+        <sys_updated_by>101856</sys_updated_by>
+        <sys_updated_on>2024-08-21 11:43:16</sys_updated_on>
+        <table>x_sunre_temp_air_c_temp_air</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</application>
+        <file_path/>
+        <instance_id>c121069fdb3d0cd4387021c4059619e7</instance_id>
+        <instance_name>sunbeltrentalsdev</instance_name>
+        <name>sys_ui_action_422039df4708dad0016423c4116d4378</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name&gt;test&lt;/action_name&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition&gt;current.state==10&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style/&gt;&lt;format_for_configurable_workspace&gt;false&lt;/format_for_configurable_workspace&gt;&lt;hint/&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;messages/&gt;&lt;name&gt;test&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[//if state is not closed or awaiting info
+if(!current.comments &amp;&amp; !current.work_notes){
+    gs.addErrorMessage(gs.getMessage("Please specify details in comments or worknotes"));
+	action.setRedirectURL(current);
+	current.setAbortAction(true);
+}
+else {
+	current.state == '18';
+	current.update();
+	
+	var inputs = {};
+	inputs['case_task_record'] = current;
+		sn_fd.FlowAPI.executeSubflow('sn_customerservice.update_case_for_action_status', inputs);
+	
+	
+
+}]]&gt;&lt;/script&gt;&lt;show_insert&gt;true&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;101856&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-08-21 11:10:30&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;422039df4708dad0016423c4116d4378&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;test&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c"&gt;a26f847947d70e10016423c4116d43b0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Temp Air:  Customer Service"&gt;a26f847947d70e10016423c4116d43b0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_422039df4708dad0016423c4116d4378&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;101856&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-08-21 11:43:16&lt;/sys_updated_on&gt;&lt;table&gt;x_sunre_temp_air_c_temp_air&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>610565496</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>266f00f947d70e10016423c4116d43b4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>101856</sys_created_by>
+        <sys_created_on>2024-08-21 11:43:16</sys_created_on>
+        <sys_id>daf7795747c8dad0016423c4116d434f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19174bf8e1c0000001</sys_recorded_at>
+        <sys_updated_by>101856</sys_updated_by>
+        <sys_updated_on>2024-08-21 11:43:16</sys_updated_on>
+        <type>UI Action</type>
+        <update_guid>12f77957f6c8dad06614662dffa3e74f</update_guid>
+        <update_guid_history>12f77957f6c8dad06614662dffa3e74f:610565496,d2e7755750c8dad0cf60f313f3323b91:-802576922,0167b95f8388dad01dabf311ed978330:204359768,b472b99f4848dad092d5d40d6193ff9e:-702156641,f8c1395bea48dad010ecc1e3cf24c606:1530648631,6a70391b5948dad0ae970df250af5d29:-708882738</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>101856</sys_created_by>
+        <sys_created_on>2024-08-21 11:45:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action">sys_ui_action</sys_db_object>
+        <sys_id>037429f2706f4f8d81ecbfc48e190e09</sys_id>
+        <sys_metadata>422039df4708dad0016423c4116d4378</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+        <sys_parent display_value="Temp Air Case">94c0187d47d70e10016423c4116d4358</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+        <sys_scope_delete display_value="">7bbdc2ae09b748acb2bbf328de520390</sys_scope_delete>
+        <sys_update_name>sys_ui_action_422039df4708dad0016423c4116d4378</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_422039df4708dad0016423c4116d4378">daf7795747c8dad0016423c4116d434f</sys_update_version>
+        <sys_updated_by>101856</sys_updated_by>
+        <sys_updated_on>2024-08-21 11:45:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
