@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="mfg_group" table="x_sunre_temp_air_c_temp_air" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>mfg_group</element>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:05:23</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>mfg_group</sys_name>
+            <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+            <sys_update_name>sys_choice_x_sunre_temp_air_c_temp_air_mfg_group</sys_update_name>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:05:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mfg_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Flagro</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:06:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:06:12</sys_updated_on>
+            <u_translated_text/>
+            <value>Flagro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mfg_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Temp Air</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:05:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:05:25</sys_updated_on>
+            <u_translated_text/>
+            <value>Temp Air</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="94c0187d47d70e10016423c4116d4358" extends="sn_customerservice_case" label="Temp Air Case" max_length="40" name="x_sunre_temp_air_c_temp_air" type="collection">
+        <element active="false" choice="1" label="Asset Cost Center same as Caller?" mandatory="true" max_length="40" name="asset_cost_center_same_as_caller" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="100" u_translated_text="Yes" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="200" u_translated_text="No" value="no"/>
+            </choice>
+        </element>
+        <element label="Troubleshooting" max_length="40" name="troubleshooting" type="boolean"/>
+        <element label="Skills Comments" max_length="400" name="comments_skills" reference_qual="null" reference_qual_condition="null" type="string"/>
+        <element label="Documentation" max_length="40" name="documentation" type="boolean"/>
+        <element label="Engineering Review Comments" max_length="400" name="comments_engineering_review" type="string"/>
+        <element label="Equipment Performance / Specs" max_length="40" name="equipment_performance_specs" type="boolean"/>
+        <element label="Support Provided In Field" max_length="40" name="support_provided_in_field" type="boolean"/>
+        <element label="Equipment Operation" max_length="40" name="equipment_operation" type="boolean"/>
+        <element label="Issue Resolved" max_length="40" name="issue_resolved" type="boolean"/>
+        <element choice="1" label="Mfg Group" mandatory="true" max_length="40" name="mfg_group" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Flagro" value="Flagro"/>
+                <element inactive_on_update="false" label="Temp Air" value="Temp Air"/>
+            </choice>
+        </element>
+        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=model_number;manufacturer;short_description;u_cat;u_class,ref_ac_columns_search=true" label="Equipment Model" mandatory="true" max_length="32" name="equipment_model" reference="cmdb_hardware_product_model" reference_qual="cmdb_model_categoryLIKE73ace65d47d4de90b35de7d5316d43ca^EQ" reference_qual_condition="cmdb_model_categoryLIKE73ace65d47d4de90b35de7d5316d43ca^EQ" type="reference"/>
+        <element label="Part Number(s):" max_length="4000" name="part_number_s" type="string"/>
+        <element label="Was Technician Lacking Skills or Training?" max_length="40" name="was_technician_lacking_skills_or_training" type="boolean"/>
+        <element label="Support Start Date" mandatory="true" max_length="40" name="support_start_date" type="glide_date_time"/>
+        <element label="Comments" max_length="4000" name="comment_custom" type="string"/>
+        <element label="OEM Serial #" max_length="40" name="oem_serial" type="string"/>
         <element choice="1" label="Time Spent (Minutes)" max_length="40" name="time_spent_minutes" type="integer">
             <choice>
                 <element inactive_on_update="false" label="60" sequence="40" u_translated_text="60" value="60"/>
@@ -12,31 +38,11 @@
             </choice>
         </element>
         <element label=" Application Support" max_length="40" name="application_support" type="boolean"/>
-        <element label="Sunbelt Asset #" max_length="40" name="sunbelt_asset" type="string"/>
-        <element label="Skills Comments" max_length="400" name="comments_skills" reference_qual="null" reference_qual_condition="null" type="string"/>
-        <element label="Part Number(s):" max_length="4000" name="part_number_s" type="string"/>
-        <element label="Equipment Performance / Specs" max_length="40" name="equipment_performance_specs" type="boolean"/>
-        <element label=" Comments" max_length="4000" name="comment_custom" type="string"/>
-        <element label="Part Inquiry" max_length="40" name="part_inquiry" type="boolean"/>
-        <element label="Engineering Review Comments" max_length="400" name="comments_engineering_review" type="string"/>
-        <element label="Equipment Operation" max_length="40" name="equipment_operation" type="boolean"/>
-        <element label="OEM Serial #" max_length="40" name="oem_serial" type="string"/>
-        <element active="false" choice="1" label="Asset Cost Center same as Caller?" mandatory="true" max_length="40" name="asset_cost_center_same_as_caller" type="string">
-            <choice>
-                <element inactive_on_update="false" label="Yes" sequence="100" u_translated_text="Yes" value="yes"/>
-                <element inactive_on_update="false" label="No" sequence="200" u_translated_text="No" value="no"/>
-            </choice>
-        </element>
-        <element label="Support Provided In Field " max_length="40" name="support_provided_in_field" type="boolean"/>
-        <element label="Engineering Review Needed?" max_length="40" name="engineering_review_needed" type="boolean"/>
-        <element label="Support Start Date" mandatory="true" max_length="40" name="support_start_date" type="glide_date_time"/>
-        <element label="Tools Comments" max_length="400" name="comments_tools" type="string"/>
         <element label="Was Technician Lacking Tools Needed?" max_length="40" name="was_technician_lacking_tools_needed" type="boolean"/>
-        <element label="Was Technician Lacking Skills or Training?" max_length="40" name="was_technician_lacking_skills_or_training" type="boolean"/>
-        <element label="Issue Resolved" max_length="40" name="issue_resolved" type="boolean"/>
+        <element label="Tools Comments" max_length="400" name="comments_tools" type="string"/>
+        <element label="Engineering Review Needed?" max_length="40" name="engineering_review_needed" type="boolean"/>
         <element active="false" label="Part Identification" max_length="40" name="part_identification" type="boolean"/>
-        <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=model_number;manufacturer;short_description;u_cat;u_class,ref_ac_columns_search=true" label="Equipment Model" mandatory="true" max_length="32" name="equipment_model" reference="cmdb_hardware_product_model" reference_qual="cmdb_model_categoryLIKE73ace65d47d4de90b35de7d5316d43ca^EQ" reference_qual_condition="cmdb_model_categoryLIKE73ace65d47d4de90b35de7d5316d43ca^EQ" type="reference"/>
-        <element label="Troubleshooting" max_length="40" name="troubleshooting" type="boolean"/>
-        <element label="Documentation" max_length="40" name="documentation" type="boolean"/>
+        <element label="Sunbelt Asset #" max_length="40" name="sunbelt_asset" type="string"/>
+        <element label="Part Inquiry" max_length="40" name="part_inquiry" type="boolean"/>
     </element>
 </database>

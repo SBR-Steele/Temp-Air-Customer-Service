@@ -3,378 +3,378 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
             <position>0</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>f81ced9e47a05e10016423c4116d43e0</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>fa65ac8a47275a50016423c4116d43ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
             <position>1</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>f01ced9e47a05e10016423c4116d43e1</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3a65ac8a47275a50016423c4116d43ee</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
             <position>2</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>f81ced9e47a05e10016423c4116d43e1</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3265ac8a47275a50016423c4116d43ef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>equipment_model</element>
             <position>3</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>f01ced9e47a05e10016423c4116d43e2</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3a65ac8a47275a50016423c4116d43ef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>equipment_model.manufacturer</element>
             <position>4</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781ced9e47a05e10016423c4116d43fb</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3265ac8a47275a50016423c4116d43f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>equipment_model.u_cat</element>
             <position>5</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>701ced9e47a05e10016423c4116d43fc</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3a65ac8a47275a50016423c4116d43f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>equipment_model.u_class</element>
             <position>6</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781ced9e47a05e10016423c4116d43fc</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3265ac8a47275a50016423c4116d43f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sunbelt_asset</element>
             <position>7</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>701ced9e47a05e10016423c4116d43fd</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3a65ac8a47275a50016423c4116d43f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>oem_serial</element>
             <position>8</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781ced9e47a05e10016423c4116d43fd</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3265ac8a47275a50016423c4116d43f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>category</element>
             <position>9</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>701ced9e47a05e10016423c4116d43fe</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3a65ac8a47275a50016423c4116d43f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>subcategory</element>
             <position>10</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781ced9e47a05e10016423c4116d43fe</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3265ac8a47275a50016423c4116d43f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
             <position>11</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>701ced9e47a05e10016423c4116d43ff</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3a65ac8a47275a50016423c4116d43f3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>12</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781ced9e47a05e10016423c4116d43ff</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3265ac8a47275a50016423c4116d43f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
             <position>13</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>701c21de47a05e10016423c4116d4300</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3a65ac8a47275a50016423c4116d43f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>needs_attention</element>
             <position>14</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781c21de47a05e10016423c4116d4300</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3265ac8a47275a50016423c4116d43f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>15</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>701c21de47a05e10016423c4116d4301</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3a65ac8a47275a50016423c4116d43f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_vendor_company</element>
             <position>16</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781c21de47a05e10016423c4116d4301</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3265ac8a47275a50016423c4116d43f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_vendor_contact</element>
             <position>17</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>701c21de47a05e10016423c4116d4302</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3a65ac8a47275a50016423c4116d43f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mfg_group</element>
+            <position>18</position>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3265ac8a47275a50016423c4116d43f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assignment_group</element>
-            <position>18</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781c21de47a05e10016423c4116d4302</sys_id>
+            <position>19</position>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3a65ac8a47275a50016423c4116d43f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
-            <position>19</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>701c21de47a05e10016423c4116d4303</sys_id>
+            <position>20</position>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>3265ac8a47275a50016423c4116d43f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>contact_type</element>
-            <position>20</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781c21de47a05e10016423c4116d4303</sys_id>
+            <position>21</position>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>0b65ac8a47275a50016423c4116d43f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_reference_1</element>
-            <position>21</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>701c21de47a05e10016423c4116d4304</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>asset_cost_center_same_as_caller</element>
             <position>22</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781c21de47a05e10016423c4116d4304</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>0365ac8a47275a50016423c4116d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_cost_center</element>
             <position>23</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>701c21de47a05e10016423c4116d4305</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>0b65ac8a47275a50016423c4116d43f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>opened_at</element>
             <position>24</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781c21de47a05e10016423c4116d4305</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>0365ac8a47275a50016423c4116d43fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>support_start_date</element>
             <position>25</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>701c21de47a05e10016423c4116d4306</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>0b65ac8a47275a50016423c4116d43fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>time_spent_minutes</element>
             <position>26</position>
-            <sys_created_by>101856</sys_created_by>
-            <sys_created_on>2024-09-12 04:48:44</sys_created_on>
-            <sys_id>781c21de47a05e10016423c4116d4306</sys_id>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:09:56</sys_created_on>
+            <sys_id>0365ac8a47275a50016423c4116d43fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="Default view">3ea75871475b0e10016423c4116d439f</sys_ui_section>
-            <sys_updated_by>101856</sys_updated_by>
-            <sys_updated_on>2024-09-12 04:48:44</sys_updated_on>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:09:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

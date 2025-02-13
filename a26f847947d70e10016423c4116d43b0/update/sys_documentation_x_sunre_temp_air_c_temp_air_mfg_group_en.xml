@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="mfg_group" label="Mfg Group" language="en" table="x_sunre_temp_air_c_temp_air">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>mfg_group</element>
+            <help/>
+            <hint/>
+            <label>Mfg Group</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <plural>Mfg Groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>109349</sys_created_by>
+            <sys_created_on>2025-02-07 08:03:40</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mfg Group</sys_name>
+            <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+            <sys_update_name>sys_documentation_x_sunre_temp_air_c_temp_air_mfg_group_en</sys_update_name>
+            <sys_updated_by>109349</sys_updated_by>
+            <sys_updated_on>2025-02-07 08:03:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
