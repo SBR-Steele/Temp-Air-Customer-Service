@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_form_sections form_id="56a7d471475b0e10016423c4116d439d" sys_domain="global" table="x_sunre_temp_air_c_temp_air" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>66826</sys_created_by>
+            <sys_created_on>2024-09-30 21:11:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f89b1d4474d5ad0861154da516d43c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_sunre_temp_air_c_temp_air" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="6de602971bf100100b7164a7bc4bcb18">56a7d471475b0e10016423c4116d439d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="6de602971bf100100b7164a7bc4bcb18">12a7d471475b0e10016423c4116d43a2</sys_ui_section>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-30 21:11:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>66826</sys_created_by>
+            <sys_created_on>2024-09-30 21:11:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0099f1d4474d5ad0861154da516d43c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_sunre_temp_air_c_temp_air" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="6de602971bf100100b7164a7bc4bcb18">56a7d471475b0e10016423c4116d439d</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="6de602971bf100100b7164a7bc4bcb18">e7fe2839471f0e10016423c4116d43a5</sys_ui_section>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-30 21:11:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>66826</sys_created_by>
+            <sys_created_on>2024-09-30 21:11:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0099f1d4474d5ad0861154da516d43ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_sunre_temp_air_c_temp_air" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="6de602971bf100100b7164a7bc4bcb18">56a7d471475b0e10016423c4116d439d</sys_ui_form>
+            <sys_ui_section caption="Resolution Details" display_value="Resolution Details" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="6de602971bf100100b7164a7bc4bcb18">ec5ee439471f0e10016423c4116d4305</sys_ui_section>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-30 21:11:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>66826</sys_created_by>
+            <sys_created_on>2024-09-30 21:11:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8899f1d4474d5ad0861154da516d43d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_sunre_temp_air_c_temp_air" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="6de602971bf100100b7164a7bc4bcb18">56a7d471475b0e10016423c4116d439d</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_sunre_temp_air_c_temp_air" sys_domain="global" view="6de602971bf100100b7164a7bc4bcb18">eea75871475b0e10016423c4116d4337</sys_ui_section>
+            <sys_updated_by>66826</sys_updated_by>
+            <sys_updated_on>2024-09-30 21:11:13</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_sunre_temp_air_c_temp_air</name>
             <roles/>

@@ -56,6 +56,4 @@
             <value>no</value>
         </sys_choice>
     </sys_choice>
-    <sys_translated_text action="delete_multiple" query="documentkey=787d7af947670a10016423c4116d43f8"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=9b8dbef147670a10016423c4116d43b1"/>
 </record_update>

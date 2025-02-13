@@ -96,8 +96,4 @@
             <value>300</value>
         </sys_choice>
     </sys_choice>
-    <sys_translated_text action="delete_multiple" query="documentkey=e1d12dd4476f8690016423c4116d43ab"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=9ff16118476f8690016423c4116d43ff"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=9e2ab66d478c9a90016423c4116d4369"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=a412e1d4476f8690016423c4116d43c7"/>
 </record_update>

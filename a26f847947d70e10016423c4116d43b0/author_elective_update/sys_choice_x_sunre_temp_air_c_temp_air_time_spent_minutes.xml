@@ -156,11 +156,4 @@
             <value>120</value>
         </sys_choice>
     </sys_choice>
-    <sys_translated_text action="delete_multiple" query="documentkey=964bb62147cc9a90016423c4116d43c1"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=c0b843af475fce50016423c4116d43f4"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=96c807af475fce50016423c4116d4367"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=c5d8436f475fce50016423c4116d435e"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=33e803af475fce50016423c4116d430a"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=8ff8cbaf475fce50016423c4116d43b7"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=ad098baf475fce50016423c4116d43b7"/>
 </record_update>

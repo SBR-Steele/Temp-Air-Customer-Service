@@ -136,10 +136,4 @@
             <value>600</value>
         </sys_choice>
     </sys_choice>
-    <sys_translated_text action="delete_multiple" query="documentkey=749ecf6b479fce50016423c4116d43cb"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=4dce0f6b479fce50016423c4116d431e"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=6dee432f479fce50016423c4116d43e5"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=f71f8feb479fce50016423c4116d4347"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=132fcbeb479fce50016423c4116d431c"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=cb3f436f479fce50016423c4116d433d"/>
 </record_update>

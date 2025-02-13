@@ -56,6 +56,4 @@
             <value>1350</value>
         </sys_choice>
     </sys_choice>
-    <sys_translated_text action="delete_multiple" query="documentkey=cf2e07eb479fce50016423c4116d430f"/>
-    <sys_translated_text action="delete_multiple" query="documentkey=828ec7eb479fce50016423c4116d436e"/>
 </record_update>
