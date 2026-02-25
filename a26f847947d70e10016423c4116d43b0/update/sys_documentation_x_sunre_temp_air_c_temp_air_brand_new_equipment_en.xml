@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="brand_new_equipment" label="Brand New Equipment" language="en" table="x_sunre_temp_air_c_temp_air">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>brand_new_equipment</element>
+            <help/>
+            <hint/>
+            <label>Brand New Equipment</label>
+            <language>en</language>
+            <name>x_sunre_temp_air_c_temp_air</name>
+            <plural>Brand New Equipments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>101855</sys_created_by>
+            <sys_created_on>2026-02-24 06:26:38</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Brand New Equipment</sys_name>
+            <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+            <sys_update_name>sys_documentation_x_sunre_temp_air_c_temp_air_brand_new_equipment_en</sys_update_name>
+            <sys_updated_by>101855</sys_updated_by>
+            <sys_updated_on>2026-02-24 06:26:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

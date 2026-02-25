@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="mfg_group" table="x_sunre_temp_air_c_temp_air">
-        <active>false</active>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="external_customer_contact" table="x_sunre_temp_air_c_temp_air">
+        <active>true</active>
         <array>false</array>
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice>1</choice>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Mfg Group</column_label>
+        <column_label>External Customer Contact Number</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -26,13 +21,13 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>mfg_group</element>
+        <element>external_customer_contact</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Choice">choice</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_sunre_temp_air_c_temp_air</name>
@@ -50,15 +45,15 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>109349</sys_created_by>
-        <sys_created_on>2025-02-07 08:03:40</sys_created_on>
-        <sys_name>Mfg Group</sys_name>
+        <sys_created_by>101855</sys_created_by>
+        <sys_created_on>2026-02-24 06:26:38</sys_created_on>
+        <sys_name>External Customer Contact Number</sys_name>
         <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
-        <sys_update_name>sys_dictionary_x_sunre_temp_air_c_temp_air_mfg_group</sys_update_name>
+        <sys_update_name>sys_dictionary_x_sunre_temp_air_c_temp_air_external_customer_contact</sys_update_name>
         <sys_updated_by>101855</sys_updated_by>
-        <sys_updated_on>2026-02-25 07:54:42</sys_updated_on>
+        <sys_updated_on>2026-02-24 06:26:38</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
