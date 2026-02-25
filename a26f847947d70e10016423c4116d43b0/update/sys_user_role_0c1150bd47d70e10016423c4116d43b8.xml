@@ -5,6 +5,7 @@
         <description/>
         <elevated_privilege>false</elevated_privilege>
         <encryption_context/>
+        <federated_id>cnKrPhOT2OzIiWM2X+ylCpokDGkaX7qJVukf7q+xK5E=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_sunre_temp_air_c.temp_air_user</name>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_reference_1</field>
+        <global>true</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>Set cost center</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    if (newValue === '5136503cc611227c0183e96598c4f706') {
+		alert("test");
+        g_form.setValue('u_cost_center', '9c9822c087b519903a940d8f8bbb3509');
+    }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>101855</sys_created_by>
+        <sys_created_on>2026-02-25 08:14:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4aeeb0592b9b36149e2df589ed91bf37</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Set cost center</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+        <sys_update_name>sys_script_client_4aeeb0592b9b36149e2df589ed91bf37</sys_update_name>
+        <sys_updated_by>101855</sys_updated_by>
+        <sys_updated_on>2026-02-25 08:26:43</sys_updated_on>
+        <table>x_sunre_temp_air_c_temp_air</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</application>
+        <file_path/>
+        <instance_id>c121069fdb3d0cd4387021c4059619e7</instance_id>
+        <instance_name>sunbeltrentalsdev</instance_name>
+        <name>sys_script_client_4aeeb0592b9b36149e2df589ed91bf37</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;u_reference_1&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Set cost center&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    if (newValue === '5136503cc611227c0183e96598c4f706') {
+		alert("test");
+        g_form.setValue('u_cost_center', '9c9822c087b519903a940d8f8bbb3509');
+    }
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;101855&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-02-25 08:14:24&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;4aeeb0592b9b36149e2df589ed91bf37&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Set cost center&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c"&gt;a26f847947d70e10016423c4116d43b0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Temp Air:  Customer Service"&gt;a26f847947d70e10016423c4116d43b0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_4aeeb0592b9b36149e2df589ed91bf37&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;101855&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-02-25 08:26:43&lt;/sys_updated_on&gt;&lt;table&gt;x_sunre_temp_air_c_temp_air&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2109583192</payload_hash>
+        <record_name>Set cost center</record_name>
+        <reverted_from/>
+        <source>ce559774fb937e14b505f7e1aeefdcbc</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>101855</sys_created_by>
+        <sys_created_on>2026-02-25 08:26:43</sys_created_on>
+        <sys_id>0722811d2bdb36149e2df589ed91bf1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c93e8591c0000001</sys_recorded_at>
+        <sys_updated_by>101855</sys_updated_by>
+        <sys_updated_on>2026-02-25 08:26:43</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>0722811da0db3614ca185cd08981b81a</update_guid>
+        <update_guid_history>0722811da0db3614ca185cd08981b81a:-2109583192,651105d9a3db3614c0e817b71e11c240:631452637,f02049d59ddb361482a63bb83c2d46f4:1633812885,665ff8ddbd9b3614938d729d0de7c4bf:-244645817</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>101855</sys_created_by>
+        <sys_created_on>2026-02-25 10:09:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>2ced0e11e3a24aed8b4d93f329a76941</sys_id>
+        <sys_metadata>4aeeb0592b9b36149e2df589ed91bf37</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set cost center</sys_name>
+        <sys_package display_value="Temp Air:  Customer Service" source="x_sunre_temp_air_c">a26f847947d70e10016423c4116d43b0</sys_package>
+        <sys_parent display_value="Temp Air Case">94c0187d47d70e10016423c4116d4358</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Temp Air:  Customer Service">a26f847947d70e10016423c4116d43b0</sys_scope>
+        <sys_scope_delete display_value="">7bbdc2ae09b748acb2bbf328de520390</sys_scope_delete>
+        <sys_update_name>sys_script_client_4aeeb0592b9b36149e2df589ed91bf37</sys_update_name>
+        <sys_update_version display_value="sys_script_client_4aeeb0592b9b36149e2df589ed91bf37">0722811d2bdb36149e2df589ed91bf1b</sys_update_version>
+        <sys_updated_by>101855</sys_updated_by>
+        <sys_updated_on>2026-02-25 10:09:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

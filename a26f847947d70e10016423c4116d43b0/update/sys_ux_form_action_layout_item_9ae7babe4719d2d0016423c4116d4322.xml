@@ -2,6 +2,7 @@
     <sys_ux_form_action_layout_item action="INSERT_OR_UPDATE">
         <action display_value="Case to Incident">d2e7babe4719d2d0016423c4116d4320</action>
         <active>true</active>
+        <animate_icon>false</animate_icon>
         <color>secondary</color>
         <description/>
         <icon/>

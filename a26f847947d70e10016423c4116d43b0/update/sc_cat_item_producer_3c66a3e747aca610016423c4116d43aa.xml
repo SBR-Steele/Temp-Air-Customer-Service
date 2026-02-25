@@ -88,6 +88,7 @@ current.u_record_producer = "3c66a3e747aca610016423c4116d43aa";]]></script>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
+        <turn_off_nowassist_conversation>false</turn_off_nowassist_conversation>
         <type>item</type>
         <u_order_guide_form_entry/>
         <u_replacement_catalog_item/>

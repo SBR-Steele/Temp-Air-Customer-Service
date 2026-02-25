@@ -2,6 +2,7 @@
     <sys_ux_form_action_layout_item action="INSERT_OR_UPDATE">
         <action display_value="Request Info">b96ee1534748dad0016423c4116d433a</action>
         <active>true</active>
+        <animate_icon>false</animate_icon>
         <color>secondary</color>
         <description/>
         <icon/>
