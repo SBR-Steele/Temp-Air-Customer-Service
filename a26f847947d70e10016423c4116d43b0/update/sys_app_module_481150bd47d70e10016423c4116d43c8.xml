@@ -19,6 +19,8 @@
         <report/>
         <require_confirmation>true</require_confirmation>
         <roles>x_sunre_temp_air_c.temp_air_user</roles>
+        <route/>
+        <screen/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>101856</sys_created_by>
         <sys_created_on>2024-07-10 05:35:40</sys_created_on>
@@ -37,6 +39,7 @@
         <timeline_page/>
         <title>Temp Air</title>
         <uncancelable>false</uncancelable>
+        <ux_list/>
         <view_name/>
         <window_name/>
     </sys_app_module>

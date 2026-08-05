@@ -2,7 +2,7 @@
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2024-08-21 10:42:28</change_date>
         <changed_by display_value="Pooja Dudhane">1959cab047a5a914673a78b2e36d4356</changed_by>
-        <content display_value="Add the Service Organizations Offering Service field to the Service Definition form">fd286eb95352211036faddeeff7b1299</content>
+        <content display_value="Add the Organizations Offering Service field to the Service Definition form">fd286eb95352211036faddeeff7b1299</content>
         <related_change_log_entry/>
         <related_task_entry/>
         <sys_class_name>gsw_change_log</sys_class_name>

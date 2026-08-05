@@ -7,11 +7,11 @@
             </choice>
         </element>
         <element label="Troubleshooting" max_length="40" name="troubleshooting" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" label="External Customer Contact Number" max_length="40" name="external_customer_contact" type="string"/>
         <element label="Skills Comments" max_length="400" name="comments_skills" reference_qual="null" reference_qual_condition="null" type="string"/>
         <element label="Documentation" max_length="40" name="documentation" type="boolean"/>
         <element label="Engineering Review Comments" max_length="400" name="comments_engineering_review" type="string"/>
         <element label="Equipment Performance / Specs" max_length="40" name="equipment_performance_specs" type="boolean"/>
+        <element label="After Hours Call" max_length="40" name="after_hours_call" type="boolean"/>
         <element label="Support Provided In Field" max_length="40" name="support_provided_in_field" type="boolean"/>
         <element active="false" attributes="edge_encryption_enabled=true" choice="1" label="Mfg Group" max_length="40" name="mfg_group" type="choice">
             <choice>
@@ -22,14 +22,13 @@
         <element label="Equipment Operation" max_length="40" name="equipment_operation" type="boolean"/>
         <element label="Issue Resolved" max_length="40" name="issue_resolved" type="boolean"/>
         <element attributes="ref_auto_completer=AJAXTableCompleter,ref_ac_columns=model_number;manufacturer;short_description;u_cat;u_class,ref_ac_columns_search=true" label="Equipment Model" mandatory="true" max_length="32" name="equipment_model" reference="cmdb_hardware_product_model" reference_qual="cmdb_model_categoryLIKE73ace65d47d4de90b35de7d5316d43ca^EQ" reference_qual_condition="cmdb_model_categoryLIKE73ace65d47d4de90b35de7d5316d43ca^EQ" type="reference"/>
+        <element label="Brand New Equipment" max_length="40" name="brand_new_equipment" type="boolean"/>
         <element label="Part Number(s):" max_length="4000" name="part_number_s" type="string"/>
         <element label="External Customer" max_length="40" name="external_customer" type="string"/>
         <element label="Was Technician Lacking Skills or Training?" max_length="40" name="was_technician_lacking_skills_or_training" type="boolean"/>
         <element label="Support Start Date" mandatory="true" max_length="40" name="support_start_date" type="glide_date_time"/>
         <element label="Comments" max_length="4000" name="comment_custom" type="string"/>
-        <element label="Brand New Equipment" max_length="40" name="brand_new_equipment" type="boolean"/>
         <element label="OEM Serial #" max_length="40" name="oem_serial" type="string"/>
-        <element label="After Hours Call" max_length="40" name="after_hours_call" type="boolean"/>
         <element choice="1" label="Time Spent (Minutes)" max_length="40" name="time_spent_minutes" type="integer">
             <choice>
                 <element inactive_on_update="false" label="30" sequence="20" u_translated_text="30" value="30"/>
@@ -42,6 +41,7 @@
             </choice>
         </element>
         <element label=" Application Support" max_length="40" name="application_support" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="External Customer Contact Number" max_length="40" name="external_customer_contact" type="string"/>
         <element label="Was Technician Lacking Tools Needed?" max_length="40" name="was_technician_lacking_tools_needed" type="boolean"/>
         <element label="Tools Comments" max_length="400" name="comments_tools" type="string"/>
         <element label="Engineering Review Needed?" max_length="40" name="engineering_review_needed" type="boolean"/>

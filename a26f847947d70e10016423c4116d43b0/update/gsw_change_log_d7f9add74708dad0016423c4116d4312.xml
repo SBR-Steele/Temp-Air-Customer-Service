@@ -2,7 +2,7 @@
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2024-08-21 10:42:10</change_date>
         <changed_by display_value="Pooja Dudhane">1959cab047a5a914673a78b2e36d4356</changed_by>
-        <content display_value="Create service organization criteria">0ce3f2b15392211036faddeeff7b1293</content>
+        <content display_value="Create organization criteria">0ce3f2b15392211036faddeeff7b1293</content>
         <related_change_log_entry/>
         <related_task_entry/>
         <sys_class_name>gsw_change_log</sys_class_name>

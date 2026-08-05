@@ -2,6 +2,7 @@
     <sys_ui_section caption="Resolution Details" section_id="ec5ee439471f0e10016423c4116d4305" sys_domain="global" table="x_sunre_temp_air_c_temp_air" version="3" view="workspace">
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
+            <name/>
             <sys_created_by>101856</sys_created_by>
             <sys_created_on>2024-07-18 06:22:42</sys_created_on>
             <sys_id>8f88695847af8690016423c4116d4381</sys_id>

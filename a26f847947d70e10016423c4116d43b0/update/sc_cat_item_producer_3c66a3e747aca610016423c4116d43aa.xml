@@ -2,13 +2,16 @@
     <sc_cat_item_producer action="INSERT_OR_UPDATE">
         <access_type>restricted</access_type>
         <active>true</active>
+        <additional_review>false</additional_review>
         <allow_edit>false</allow_edit>
         <availability>on_both</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
         <category display_value="Services">4cb69d19c3921200b0449f2974d3ae69</category>
+        <cc_render_type>web</cc_render_type>
         <checked_out/>
         <cost>0</cost>
+        <create_universal_request>false</create_universal_request>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
@@ -68,6 +71,7 @@ Forces population of this record producer sys_id into the target record for repo
 current.cmdb_model_category = "Temp Air";
 current.name = producer.model_number;
 current.u_record_producer = "3c66a3e747aca610016423c4116d43aa";]]></script>
+        <secondary_owners/>
         <short_description>Equipment model maintenance</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
@@ -94,7 +98,7 @@ current.u_record_producer = "3c66a3e747aca610016423c4116d43aa";]]></script>
         <u_replacement_catalog_item/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>27</version>
+        <version>28</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
