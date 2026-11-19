@@ -8,7 +8,7 @@
         <billable>false</billable>
         <can_cancel>false</can_cancel>
         <category display_value="Services">4cb69d19c3921200b0449f2974d3ae69</category>
-        <cc_render_type>web</cc_render_type>
+        <cc_render_type>conversational_agentic,conversational_topic</cc_render_type>
         <checked_out/>
         <cost>0</cost>
         <create_universal_request>false</create_universal_request>
@@ -106,6 +106,84 @@ current.u_record_producer = "3c66a3e747aca610016423c4116d43aa";]]></script>
         <workflow/>
     </sc_cat_item_producer>
     <sys_translated_text action="delete_multiple" query="documentkey=3c66a3e747aca610016423c4116d43aa"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3c66a3e747aca610016423c4116d43aa</documentkey>
+        <fieldname>description</fieldname>
+        <language>es</language>
+        <sys_created_by>118781</sys_created_by>
+        <sys_created_on>2026-11-19 16:06:44</sys_created_on>
+        <sys_id>70fbad9f2b609f102b29f030fc91bf79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>118781</sys_updated_by>
+        <sys_updated_on>2026-11-19 16:06:44</sys_updated_on>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;&lt;span style="font-size: 12pt;"&gt;Utilice este formulario para mantener los modelos de equipos de fabricación. &lt;/span&gt;&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3c66a3e747aca610016423c4116d43aa</documentkey>
+        <fieldname>description</fieldname>
+        <language>fq</language>
+        <sys_created_by>118781</sys_created_by>
+        <sys_created_on>2026-11-19 16:06:19</sys_created_on>
+        <sys_id>badba19f2b609f102b29f030fc91bf4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>118781</sys_updated_by>
+        <sys_updated_on>2026-11-19 16:06:19</sys_updated_on>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>&lt;p&gt;&lt;span style="font-size: 12pt;"&gt;Utilisez ce formulaire pour entretenir les modèles d’équipement de fabrication. &lt;/span&gt;&lt;/p&gt;</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3c66a3e747aca610016423c4116d43aa</documentkey>
+        <fieldname>name</fieldname>
+        <language>es</language>
+        <sys_created_by>118781</sys_created_by>
+        <sys_created_on>2026-11-19 16:06:44</sys_created_on>
+        <sys_id>7cfbad9f2b609f102b29f030fc91bf7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>118781</sys_updated_by>
+        <sys_updated_on>2026-11-19 16:06:44</sys_updated_on>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Equipamiento de fabricación</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3c66a3e747aca610016423c4116d43aa</documentkey>
+        <fieldname>name</fieldname>
+        <language>fq</language>
+        <sys_created_by>118781</sys_created_by>
+        <sys_created_on>2026-11-19 16:06:20</sys_created_on>
+        <sys_id>0fdb259f2b609f102b29f030fc91bfe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>118781</sys_updated_by>
+        <sys_updated_on>2026-11-19 16:06:20</sys_updated_on>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Équipement de fabrication</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3c66a3e747aca610016423c4116d43aa</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>es</language>
+        <sys_created_by>118781</sys_created_by>
+        <sys_created_on>2026-11-19 16:06:44</sys_created_on>
+        <sys_id>b8fbed9f2b609f102b29f030fc91bfdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>118781</sys_updated_by>
+        <sys_updated_on>2026-11-19 16:06:44</sys_updated_on>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Mantenimiento del modelo de equipo</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>3c66a3e747aca610016423c4116d43aa</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>fq</language>
+        <sys_created_by>118781</sys_created_by>
+        <sys_created_on>2026-11-19 16:06:20</sys_created_on>
+        <sys_id>87db259f2b609f102b29f030fc91bfec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>118781</sys_updated_by>
+        <sys_updated_on>2026-11-19 16:06:20</sys_updated_on>
+        <tablename>sc_cat_item_producer</tablename>
+        <value>Entretien des modèles d’équipement</value>
+    </sys_translated_text>
     <fx_price action="delete_multiple" query="id=3c66a3e747aca610016423c4116d43aa"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
